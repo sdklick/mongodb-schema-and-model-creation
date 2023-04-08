@@ -1,4 +1,4 @@
-//mongodb create schema and model
+//mongodb create schema and model in express
 const mongoose = require("mongoose");
 
 //schma define
